@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\obj\Debug\net6.0\2_задание.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\obj\Debug\net6.0\2_задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\obj\Debug\net6.0\2_задание.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\obj\Debug\net6.0\2_задание.AssemblyInfo.cs
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\obj\Debug\net6.0\2_задание.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\bin\Debug\net6.0\2_задание.exe
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\bin\Debug\net6.0\2_задание.deps.json
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\bin\Debug\net6.0\2_задание.runtimeconfig.json
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\bin\Debug\net6.0\2_задание.dll
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\bin\Debug\net6.0\2_задание.pdb
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\obj\Debug\net6.0\2_задание.dll
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\obj\Debug\net6.0\refint\2_задание.dll
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\obj\Debug\net6.0\2_задание.pdb
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\obj\Debug\net6.0\2_задание.genruntimeconfig.cache
+C:\Users\User\Desktop\GB_Lesson\ДЗ_Семинар_1\2_задание\obj\Debug\net6.0\ref\2_задание.dll
